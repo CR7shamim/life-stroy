@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+
+.conteiner{
+    width:  600px;
+    height: 600px;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-image:url('baby girl.jpg');
+    background-repeat: no-repeat;
+    color: #fff000;
+    text-transform: uppercase;
+    font-size: 10.6px;
+}
